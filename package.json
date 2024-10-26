@@ -13,10 +13,6 @@
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
-      {
-        "command": "vsdocs.helloWorld",
-        "title": "Hello World"
-      }
     ]
   },
   "scripts": {
